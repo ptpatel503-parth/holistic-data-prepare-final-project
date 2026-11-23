@@ -1,0 +1,7502 @@
+[
+  {
+    "customer_id": "C100000",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100001",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100002",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100003",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100004",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100005",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100006",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100007",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100008",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100009",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100010",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100011",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100012",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100013",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100014",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100015",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100016",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100017",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100018",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100019",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100020",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100021",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100022",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100023",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100024",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100025",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100026",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100027",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100028",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100029",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100030",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100031",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100032",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100033",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100034",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100035",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100036",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100037",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100038",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100039",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100040",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100041",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100042",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100043",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100044",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100045",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100046",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100047",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100048",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100049",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100050",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100051",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100052",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100053",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100054",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100055",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100056",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100057",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100058",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100059",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100060",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100061",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100062",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100063",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100064",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100065",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100066",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100067",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100068",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100069",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100070",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100071",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100072",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100073",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100074",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100075",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100076",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100077",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100078",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100079",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100080",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100081",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100082",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100083",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100084",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100085",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100086",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100087",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100088",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100089",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100090",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100091",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100092",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100093",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100094",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100095",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100096",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100097",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100098",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100099",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100100",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100101",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100102",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100103",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100104",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100105",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100106",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100107",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100108",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100109",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100110",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100111",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100112",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100113",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100114",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100115",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100116",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100117",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100118",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100119",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100120",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100121",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100122",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100123",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100124",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100125",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100126",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100127",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100128",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100129",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100130",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100131",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100132",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100133",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100134",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100135",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100136",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100137",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100138",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100139",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100140",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100141",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100142",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100143",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100144",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100145",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100146",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100147",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100148",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100149",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100150",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100151",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100152",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100153",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100154",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100155",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100156",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100157",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100158",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100159",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100160",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100161",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100162",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100163",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100164",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100165",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100166",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100167",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100168",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100169",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100170",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100171",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100172",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100173",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100174",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100175",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100176",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100177",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100178",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100179",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100180",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100181",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100182",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100183",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100184",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100185",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100186",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100187",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100188",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100189",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100190",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100191",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100192",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100193",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100194",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100195",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100196",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100197",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100198",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100199",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100200",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100201",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100202",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100203",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100204",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100205",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100206",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100207",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100208",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100209",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100210",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100211",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100212",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100213",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100214",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100215",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100216",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100217",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100218",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100219",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100220",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100221",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100222",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100223",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100224",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100225",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100226",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100227",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100228",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100229",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100230",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100231",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100232",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100233",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100234",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100235",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100236",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100237",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100238",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100239",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100240",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100241",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100242",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100243",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100244",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100245",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100246",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100247",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100248",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100249",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100250",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100251",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100252",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100253",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100254",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100255",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100256",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100257",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100258",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100259",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100260",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100261",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100262",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100263",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100264",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100265",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100266",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100267",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100268",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100269",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100270",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100271",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100272",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100273",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100274",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100275",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100276",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100277",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100278",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100279",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100280",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100281",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100282",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100283",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100284",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100285",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100286",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100287",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100288",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100289",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100290",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100291",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100292",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100293",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100294",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100295",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100296",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100297",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100298",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100299",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100300",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100301",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100302",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100303",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100304",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100305",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100306",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100307",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100308",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100309",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100310",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100311",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100312",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100313",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100314",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100315",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100316",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100317",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100318",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100319",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100320",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100321",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100322",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100323",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100324",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100325",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100326",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100327",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100328",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100329",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100330",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100331",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100332",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100333",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100334",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100335",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100336",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100337",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100338",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100339",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100340",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100341",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100342",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100343",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100344",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100345",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100346",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100347",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100348",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100349",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100350",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100351",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100352",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100353",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100354",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100355",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100356",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100357",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100358",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100359",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100360",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100361",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100362",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100363",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100364",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100365",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100366",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100367",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100368",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100369",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100370",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100371",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100372",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100373",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100374",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100375",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100376",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100377",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100378",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100379",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100380",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100381",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100382",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100383",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100384",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100385",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100386",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100387",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100388",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100389",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100390",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100391",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100392",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100393",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100394",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100395",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100396",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100397",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100398",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100399",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100400",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100401",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100402",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100403",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100404",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100405",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100406",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100407",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100408",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100409",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100410",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100411",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100412",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100413",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100414",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100415",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100416",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100417",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100418",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100419",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100420",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100421",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100422",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100423",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100424",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100425",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100426",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100427",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100428",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100429",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100430",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100431",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100432",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100433",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100434",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100435",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100436",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100437",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100438",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100439",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100440",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100441",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100442",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100443",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100444",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100445",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100446",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100447",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100448",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100449",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100450",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100451",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100452",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100453",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100454",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100455",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100456",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100457",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100458",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100459",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100460",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100461",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100462",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100463",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100464",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100465",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100466",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100467",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100468",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100469",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100470",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100471",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100472",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100473",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100474",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100475",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100476",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100477",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100478",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100479",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100480",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100481",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100482",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100483",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100484",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100485",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100486",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100487",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100488",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100489",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100490",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100491",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100492",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100493",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100494",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100495",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100496",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100497",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100498",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100499",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100500",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100501",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100502",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100503",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100504",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100505",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100506",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100507",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100508",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100509",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100510",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100511",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100512",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100513",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100514",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100515",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100516",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100517",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100518",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100519",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100520",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100521",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100522",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100523",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100524",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100525",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100526",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100527",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100528",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100529",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100530",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100531",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100532",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100533",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100534",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100535",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100536",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100537",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100538",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100539",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100540",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100541",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100542",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100543",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100544",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100545",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100546",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100547",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100548",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100549",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100550",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100551",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100552",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100553",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100554",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100555",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100556",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100557",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100558",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100559",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100560",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100561",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100562",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100563",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100564",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100565",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100566",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100567",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100568",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100569",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100570",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100571",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100572",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100573",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100574",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100575",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100576",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100577",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100578",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100579",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100580",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100581",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100582",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100583",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100584",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100585",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100586",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100587",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100588",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100589",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100590",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100591",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100592",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100593",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100594",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100595",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100596",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100597",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100598",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100599",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100600",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100601",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100602",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100603",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100604",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100605",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100606",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100607",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100608",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100609",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100610",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100611",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100612",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100613",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100614",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100615",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100616",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100617",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100618",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100619",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100620",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100621",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100622",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100623",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100624",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100625",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100626",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100627",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100628",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100629",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100630",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100631",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100632",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100633",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100634",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100635",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100636",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100637",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100638",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100639",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100640",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100641",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100642",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100643",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100644",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100645",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100646",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100647",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100648",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100649",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100650",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100651",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100652",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100653",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100654",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100655",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100656",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100657",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100658",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100659",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100660",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100661",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100662",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100663",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100664",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100665",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100666",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100667",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100668",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100669",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100670",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100671",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100672",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100673",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100674",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100675",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100676",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100677",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100678",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100679",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100680",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100681",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100682",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100683",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100684",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100685",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100686",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100687",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100688",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100689",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100690",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100691",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100692",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100693",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100694",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100695",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100696",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100697",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100698",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100699",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100700",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100701",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100702",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100703",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100704",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100705",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100706",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100707",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100708",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100709",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100710",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100711",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100712",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100713",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100714",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100715",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100716",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100717",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100718",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100719",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100720",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100721",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100722",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100723",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100724",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100725",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100726",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100727",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100728",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100729",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100730",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100731",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100732",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100733",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100734",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100735",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100736",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100737",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100738",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100739",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100740",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100741",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100742",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100743",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100744",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100745",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100746",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100747",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100748",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100749",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100750",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100751",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100752",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100753",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100754",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100755",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100756",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100757",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100758",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100759",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100760",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100761",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100762",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100763",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100764",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100765",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100766",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100767",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100768",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100769",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100770",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100771",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100772",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100773",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100774",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100775",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100776",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100777",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100778",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100779",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100780",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100781",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100782",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100783",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100784",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100785",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100786",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100787",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100788",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100789",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100790",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100791",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100792",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100793",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100794",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100795",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100796",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100797",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100798",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100799",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100800",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100801",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100802",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100803",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100804",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100805",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100806",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100807",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100808",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100809",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100810",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100811",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100812",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100813",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100814",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100815",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100816",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100817",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100818",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100819",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100820",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100821",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100822",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100823",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100824",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100825",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100826",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100827",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100828",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100829",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100830",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100831",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100832",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100833",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100834",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100835",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100836",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100837",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100838",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100839",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100840",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100841",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100842",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100843",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100844",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100845",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100846",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100847",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100848",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100849",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100850",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100851",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100852",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100853",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100854",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100855",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100856",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100857",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100858",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100859",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100860",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100861",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100862",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100863",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100864",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100865",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100866",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100867",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100868",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100869",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100870",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100871",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100872",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100873",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100874",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100875",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100876",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100877",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100878",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100879",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100880",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100881",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100882",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100883",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100884",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100885",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100886",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100887",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100888",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100889",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100890",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100891",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100892",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100893",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100894",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100895",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100896",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100897",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100898",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100899",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100900",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100901",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100902",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100903",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100904",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100905",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100906",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100907",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100908",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100909",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100910",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100911",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100912",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100913",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100914",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100915",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100916",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100917",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100918",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100919",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100920",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100921",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100922",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100923",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100924",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100925",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100926",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100927",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100928",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100929",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100930",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100931",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100932",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100933",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100934",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100935",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100936",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100937",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100938",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100939",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100940",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100941",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100942",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100943",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100944",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100945",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100946",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100947",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100948",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100949",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100950",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100951",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100952",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100953",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100954",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100955",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100956",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100957",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100958",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100959",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100960",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100961",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100962",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100963",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100964",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100965",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100966",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100967",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100968",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100969",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100970",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100971",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100972",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100973",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100974",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100975",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100976",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100977",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100978",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100979",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100980",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100981",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100982",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100983",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100984",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100985",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100986",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100987",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100988",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100989",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100990",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100991",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100992",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100993",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100994",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100995",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C100996",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100997",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C100998",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C100999",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101000",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101001",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101002",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101003",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101004",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101005",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101006",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101007",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101008",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101009",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101010",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101011",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101012",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101013",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101014",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101015",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101016",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101017",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101018",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101019",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101020",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101021",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101022",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101023",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101024",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101025",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101026",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101027",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101028",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101029",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101030",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101031",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101032",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101033",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101034",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101035",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101036",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101037",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101038",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101039",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101040",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101041",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101042",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101043",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101044",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101045",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101046",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101047",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101048",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101049",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101050",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101051",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101052",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101053",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101054",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101055",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101056",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101057",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101058",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101059",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101060",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101061",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101062",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101063",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101064",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101065",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101066",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101067",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101068",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101069",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101070",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101071",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101072",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101073",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101074",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101075",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101076",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101077",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101078",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101079",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101080",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101081",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101082",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101083",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101084",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101085",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101086",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101087",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101088",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101089",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101090",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101091",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101092",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101093",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101094",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101095",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101096",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101097",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101098",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101099",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101100",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101101",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101102",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101103",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101104",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101105",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101106",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101107",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101108",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101109",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101110",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101111",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101112",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101113",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101114",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101115",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101116",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101117",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101118",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101119",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101120",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101121",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101122",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101123",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101124",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101125",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101126",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101127",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101128",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101129",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101130",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101131",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101132",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101133",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101134",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101135",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101136",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101137",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101138",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101139",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101140",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101141",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101142",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101143",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101144",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101145",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101146",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101147",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101148",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101149",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101150",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101151",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101152",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101153",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101154",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101155",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101156",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101157",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101158",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101159",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101160",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101161",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101162",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101163",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101164",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101165",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101166",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101167",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101168",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101169",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101170",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101171",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101172",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101173",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101174",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101175",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101176",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101177",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101178",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101179",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101180",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101181",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101182",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101183",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101184",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101185",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101186",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101187",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101188",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101189",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101190",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101191",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101192",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101193",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101194",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101195",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101196",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101197",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101198",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101199",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101200",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101201",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101202",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101203",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101204",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101205",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101206",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101207",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101208",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101209",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101210",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101211",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101212",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101213",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101214",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101215",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101216",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101217",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101218",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101219",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101220",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101221",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101222",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101223",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101224",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101225",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101226",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101227",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101228",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101229",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101230",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101231",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101232",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101233",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101234",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101235",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101236",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101237",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101238",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101239",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101240",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101241",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101242",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101243",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101244",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101245",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101246",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101247",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101248",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101249",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101250",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101251",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101252",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101253",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101254",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101255",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101256",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101257",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101258",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101259",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101260",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101261",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101262",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101263",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101264",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101265",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101266",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101267",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101268",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101269",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101270",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101271",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101272",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101273",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101274",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101275",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101276",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101277",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101278",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101279",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101280",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101281",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101282",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101283",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101284",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101285",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101286",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101287",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101288",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101289",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101290",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101291",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101292",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101293",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101294",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101295",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101296",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101297",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101298",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101299",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101300",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101301",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101302",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101303",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101304",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101305",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101306",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101307",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101308",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101309",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101310",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101311",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101312",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101313",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101314",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101315",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101316",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101317",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101318",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101319",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101320",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101321",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101322",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101323",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101324",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101325",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101326",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101327",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101328",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101329",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101330",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101331",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101332",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101333",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101334",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101335",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101336",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101337",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101338",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101339",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101340",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101341",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101342",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101343",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101344",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101345",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101346",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101347",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101348",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101349",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101350",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101351",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101352",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101353",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101354",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101355",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101356",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101357",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101358",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101359",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101360",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101361",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101362",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101363",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101364",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101365",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101366",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101367",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101368",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101369",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101370",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101371",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101372",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101373",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101374",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101375",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101376",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101377",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101378",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101379",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101380",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101381",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101382",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101383",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101384",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101385",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101386",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101387",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101388",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101389",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101390",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101391",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101392",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101393",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101394",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101395",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101396",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101397",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101398",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101399",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101400",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101401",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101402",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101403",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101404",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101405",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101406",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101407",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101408",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101409",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101410",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101411",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101412",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101413",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101414",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101415",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101416",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101417",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101418",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101419",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101420",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101421",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101422",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101423",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101424",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101425",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101426",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101427",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101428",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101429",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101430",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101431",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101432",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101433",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101434",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101435",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101436",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101437",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101438",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101439",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101440",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101441",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101442",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101443",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101444",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101445",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101446",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101447",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101448",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101449",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101450",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101451",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101452",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101453",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101454",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101455",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101456",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101457",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101458",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101459",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101460",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101461",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101462",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101463",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101464",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101465",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101466",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101467",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101468",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101469",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101470",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101471",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101472",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101473",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101474",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101475",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101476",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101477",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101478",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101479",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101480",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101481",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101482",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101483",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101484",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101485",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101486",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101487",
+    "digital_profile": "Medium",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101488",
+    "digital_profile": "High",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101489",
+    "digital_profile": "High",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101490",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101491",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101492",
+    "digital_profile": "Low",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101493",
+    "digital_profile": "Low",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101494",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101495",
+    "digital_profile": "Medium",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101496",
+    "digital_profile": "Low",
+    "channel": "Mobile"
+  },
+  {
+    "customer_id": "C101497",
+    "digital_profile": "High",
+    "channel": "Branch"
+  },
+  {
+    "customer_id": "C101498",
+    "digital_profile": "Medium",
+    "channel": "Web"
+  },
+  {
+    "customer_id": "C101499",
+    "digital_profile": "Low",
+    "channel": "Web"
+  }
+]
